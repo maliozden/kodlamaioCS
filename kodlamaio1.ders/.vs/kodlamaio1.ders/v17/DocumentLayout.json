@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\",
+  "WorkspaceRootPath": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|d:\\d\\workspace\\aspnet\\kodlamaio1.ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|d:\\d\\workspace\\aspnet\\kodlamaiocs\\kodlamaio1.ders\\businnes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|solutionrelative:businnes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|d:\\d\\workspace\\aspnet\\kodlamaiocs\\kodlamaio1.ders\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|d:\\d\\workspace\\aspnet\\kodlamaiocs\\kodlamaio1.ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF8E5ED-746E-403A-A34D-09FDA2653BC3}|kodlamaio1.ders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Businnes\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Businnes\\CourseManager.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Businnes\\CourseManager.cs",
+              "RelativeToolTip": "Businnes\\CourseManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:39:00.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:21:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\Program.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\Program.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T13:44:01.063Z",
               "EditorCaption": ""

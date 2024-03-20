@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kodlamaio1.ders
-build_property.ProjectDir = D:\D\workspace\aspNet\kodlamaio1.ders\
+build_property.ProjectDir = D:\D\workspace\aspNet\kodlamaioCS\kodlamaio1.ders\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

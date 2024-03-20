@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kodlamaio1.ders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c279451ada75945da151b1c6caf2fe71bcd0a25a")]
 [assembly: System.Reflection.AssemblyProductAttribute("kodlamaio1.ders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kodlamaio1.ders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

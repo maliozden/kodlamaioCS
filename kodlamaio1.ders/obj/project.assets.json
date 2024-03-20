@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\kodlamaio1.ders.csproj",
+      "projectUniqueName": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\kodlamaio1.ders.csproj",
       "projectName": "kodlamaio1.ders",
-      "projectPath": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\kodlamaio1.ders.csproj",
+      "projectPath": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\kodlamaio1.ders.csproj",
       "packagesPath": "C:\\Users\\Mali\\.nuget\\packages\\",
-      "outputPath": "D:\\D\\workspace\\aspNet\\kodlamaio1.ders\\obj\\",
+      "outputPath": "D:\\D\\workspace\\aspNet\\kodlamaioCS\\kodlamaio1.ders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mali\\AppData\\Roaming\\NuGet\\NuGet.Config"
