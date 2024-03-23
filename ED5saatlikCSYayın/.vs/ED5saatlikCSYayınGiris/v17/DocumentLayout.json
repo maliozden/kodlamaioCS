@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\businness\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|solutionrelative:businness\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\businness\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|solutionrelative:businness\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\businness\\concrete\\pharmacymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|solutionrelative:businness\\concrete\\pharmacymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D806D49-8503-4F8E-816D-591887B94554}|ED5saatCSGiris\\WorkAround.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\ed5saatcsgiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D806D49-8503-4F8E-816D-591887B94554}|ED5saatCSGiris\\WorkAround.csproj|solutionrelative:ed5saatcsgiris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\businness\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|solutionrelative:businness\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|d:\\d\\workspace\\aspnet\\ed5saatlikcsyay\u0131ngiris\\businness\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE26432-B86D-419C-95CB-C80A86E94E33}|Businness\\Businness.csproj|solutionrelative:businness\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PharmacyManager.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PharmacyManager.cs",
+              "RelativeDocumentMoniker": "Businness\\Concrete\\PharmacyManager.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PharmacyManager.cs",
+              "RelativeToolTip": "Businness\\Concrete\\PharmacyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:23:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Businness\\Abstract\\ISupplierService.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Businness\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:11:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Businness\\Abstract\\IApplicantService.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Businness\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:50:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Businness\\Concrete\\PttManager.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Businness\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:43:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\ED5saatCSGiris\\Program.cs",
+              "RelativeDocumentMoniker": "ED5saatCSGiris\\Program.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\ED5saatCSGiris\\Program.cs",
+              "RelativeToolTip": "ED5saatCSGiris\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:49:09.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Businness\\Concrete\\PersonManager.cs",
+              "ToolTip": "D:\\D\\workspace\\aspNet\\ED5saatlikCSYay\u0131nGiris\\Businness\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Businness\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:50:02.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

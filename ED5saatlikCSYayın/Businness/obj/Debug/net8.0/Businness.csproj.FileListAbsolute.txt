@@ -1,0 +1,15 @@
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\bin\Debug\net8.0\Businness.deps.json
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\bin\Debug\net8.0\Businness.dll
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\bin\Debug\net8.0\Businness.pdb
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\bin\Debug\net8.0\Entities.dll
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\bin\Debug\net8.0\Entities.pdb
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.csproj.AssemblyReference.cache
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.AssemblyInfoInputs.cache
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.AssemblyInfo.cs
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.csproj.CoreCompileInputs.cache
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.csproj.Up2Date
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.dll
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\refint\Businness.dll
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\Businness.pdb
+D:\D\workspace\aspNet\ED5saatlikCSYayınGiris\Businness\obj\Debug\net8.0\ref\Businness.dll
